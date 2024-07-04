@@ -1,0 +1,6 @@
+module Calculator
+typeinfo appCalculator.qmltypes
+prefer :/Calculator/
+Main 1.0 Main.qml
+SecretWindow 1.0 SecretWindow.qml
+

@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/vpiks/Desktop/calc/Calculator
+-cmake-output
+-output-file
+C:/Users/vpiks/Desktop/calc/Calculator/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appCalculator.cmake
+-importPath
+C:/Users/vpiks/Desktop/calc/Calculator/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Calculator
+-importPath
+C:/Users/vpiks/Desktop/calc/Calculator/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.7.0/mingw_64/./qml
+-qrcFiles
+C:/Users/vpiks/Desktop/calc/Calculator/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmake_Calculator.qrc
+C:/Users/vpiks/Desktop/calc/Calculator/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/appCalculator_raw_qml_0.qrc
