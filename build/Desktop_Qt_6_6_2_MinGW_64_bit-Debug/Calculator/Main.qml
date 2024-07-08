@@ -282,6 +282,20 @@ ApplicationWindow {
         }
     }
 
+    Rectangle {
+        anchors.fill: temp
+        border.width: 4
+        border.color: "black"
+        color: "transparent"
+    }
+
+    Rectangle {
+        anchors.fill: temp2
+        border.width: 4
+        border.color: "red"
+        color: "transparent"
+    }
+
     SecretWindow {
         id: secretWindow
     }

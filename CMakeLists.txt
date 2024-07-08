@@ -4,12 +4,15 @@ project(Calculator VERSION 0.1 LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
+set(CMAKE_AUTORCC ON)
+
 find_package(Qt6 6.4 REQUIRED COMPONENTS Quick)
 
 qt_standard_project_setup()
 
 qt_add_executable(appCalculator
     main.cpp
+    resourse.qrc
 )
 
 qt_add_qml_module(appCalculator
@@ -19,7 +22,10 @@ qt_add_qml_module(appCalculator
         Main.qml
         QML_FILES
         QML_FILES SecretWindow.qml
+        RESOURCES resourse.qrc
 )
+
+
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
 # If you are developing for iOS or macOS you should consider setting an

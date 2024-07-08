@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/font">
+        <file alias="Sans">Design/OpenSans.ttf</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file alias="()">Design/bkt.png</file>
+        <file alias="div">Design/division.png</file>
+        <file alias="eq">Design/equal.png</file>
+        <file alias="min">Design/minus.png</file>
+        <file alias="mult">Design/multiplication.png</file>
+        <file alias="per">Design/percent.png</file>
+        <file alias="plus">Design/plus.png</file>
+        <file alias="plus_min">Design/plus_minus.png</file>
+    </qresource>
+</RCC>

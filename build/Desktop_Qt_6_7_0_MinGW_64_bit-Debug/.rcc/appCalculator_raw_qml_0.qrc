@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/Calculator/">
-    <file alias="Main.qml">C:/Users/vpiks/Desktop/calc/Calculator/Main.qml</file>
-    <file alias="SecretWindow.qml">C:/Users/vpiks/Desktop/calc/Calculator/SecretWindow.qml</file>
-  </qresource>
-</RCC>
-
